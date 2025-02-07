@@ -1,0 +1,33 @@
+# Web Framework
+fastapi==0.68.0
+uvicorn==0.15.0
+
+# Template Engine
+jinja2==3.0.1
+
+# Static File Handling
+aiofiles==0.8.0
+
+# CORS Middleware
+starlette==0.14.2
+
+# Environment Variables
+python-dotenv==0.19.0
+
+# Form Data Handling
+python-multipart==0.0.5
+
+# Type Hints
+typing-extensions>=4.2.0
+
+# Data Validation
+pydantic<2.0.0
+
+# AI/ML
+google-generativeai==0.3.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Image Processing
+Pillow==9.5.0 
