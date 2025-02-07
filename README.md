@@ -9,7 +9,7 @@ If you like this project, consider buying me a coffee!
 
 ## Developer
 
-This project is developed by **Manideep Reddy Eevuri**.
+This project is developed by **MANIDEEP REDDY EEVURI**.
 
 - [GitHub Profile](https://github.com/Maniredii)
 - [LinkedIn Profile](https://www.linkedin.com/in/manideep-reddy-eevuri-661659268)
